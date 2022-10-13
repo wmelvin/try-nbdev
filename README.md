@@ -11,8 +11,8 @@ reference to an article at *fast.ai*, [The Jupyter+git problem is now
 solved](https://www.fast.ai/posts/2022-08-25-jupyter-git.html).
 
 This learning project is mostly following the nbdev [End-To-End
-Walkthrough](https://nbdev.fast.ai/tutorials/tutorial.html#enabling-github-pages)
-after watching the [nbdev tutorial - zero to published project in 90
+Walkthrough](https://nbdev.fast.ai/tutorials/tutorial.html) after
+watching the [nbdev tutorial - zero to published project in 90
 minutes](https://www.youtube.com/watch?v=l7zS8Ld4_iA) on YouTube.
 
 ## Install
