@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "try-nbdev"
+  site-url: "https://wmelvin.github.io/try-nbdev"
+  description: "Exploring nbdev by fast.ai."
+  repo-branch: main
+  repo-url: "https://github.com/wmelvin/try-nbdev"
