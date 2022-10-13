@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "try-nbdev",
+    "section": "",
+    "text": "I was first made aware of nbdev while listening to the Python Bytes Podcast, Episode 300, where they talked about A Jupyter merge driver for git. That made reference to an article at fast.ai, The Jupyter+git problem is now solved.\nThis learning project is mostly following the nbdev End-To-End Walkthrough after watching the nbdev tutorial - zero to published project in 90 minutes on YouTube."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "try-nbdev",
+    "section": "Install",
+    "text": "Install\nNot sure you should. :wink:\npip install try_nbdev"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "try-nbdev",
+    "section": "How to use",
+    "text": "How to use\nThis module provides little of any use, but it will say hello.\n\nprint(say_hello(\"Y'all\"))\n\nHello, Y'all."
+  },
+  {
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Hello",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody.\n\nsay_hello(\"Pal\")\n\n'Hello, Pal.'\n\n\n\nassert say_hello(\"Bob\") == \"Hello, Bob.\""
+  }
+]
