@@ -20,4 +20,4 @@ This module provides little of any use, but it will say hello.
 print(say_hello("Y'all"))
 ```
 
-    NameError: name 'say_hello' is not defined
+    Hello, Y'all.
